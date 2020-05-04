@@ -1,12 +1,11 @@
 
-#task 1
 
 print('succesfuuly installed')
 
 
 
 
-#task 1.1
+
 nl=[]
 
 for i in range(2000,3200):
